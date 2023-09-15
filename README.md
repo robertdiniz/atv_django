@@ -1,1 +1,1 @@
-# atv_django
+# Atividade - Introdução ao DJANGO (DSW)
